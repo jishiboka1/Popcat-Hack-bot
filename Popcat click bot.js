@@ -14,5 +14,5 @@ setInterval(function(){
 	for (i = 0; i < 5000; i++) {
 		document.dispatchEvent(event);
 	}
-}, 0);259
+}, 0);300
 
