@@ -11,7 +11,7 @@ var event = new KeyboardEvent('keydown', {
 });
 
 setInterval(function(){
-	for (i = 0; i < 100; i++) {
+	for (i = 0; i < 5000; i++) {
 		document.dispatchEvent(event);
 	}
-}, 0);
+}, 0);259
